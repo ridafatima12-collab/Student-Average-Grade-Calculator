@@ -44,6 +44,7 @@ Group project for FOCP course at NUST (BS Bioinformatics) — Semester 1. Practi
 ---
 
 ## Files
+```
 grade_averager.c
-
 README.md
+```
